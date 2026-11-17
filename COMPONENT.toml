@@ -3,7 +3,7 @@ name = "SigmaOS-onlyoffice-spreadsheet"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "onlyoffice-spreadsheet component"
+description = "onlyoffice spreadsheet component"
 upstream = []
 
 [contract]
